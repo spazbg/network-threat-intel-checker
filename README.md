@@ -20,6 +20,11 @@ against a threat intelligence platform (AbuseIPDB) to identify potentially malic
 ## Installation
 
 1. Clone the repo
+
+```bash
+git clone https://github.com/spazbg/network-threat-intel-checker.git
+```
+
 2. Install the required dependencies
 
 ```bash
