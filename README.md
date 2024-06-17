@@ -50,3 +50,7 @@ summary of the results.
   permission issues, add your user to the systemd-journal group using `sudo usermod -aG systemd-journal $USER`, then log
   out and log back in for the changes to take effect, or use `newgrp systemd-journal` to switch to the group in the
   current shell session.
+
+  ## Video PoC
+
+ ![https://youtu.be/_yfbTMBRu6o](https://youtu.be/_yfbTMBRu6o)
