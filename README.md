@@ -51,6 +51,6 @@ summary of the results.
   out and log back in for the changes to take effect, or use `newgrp systemd-journal` to switch to the group in the
   current shell session.
 
-  ## Video PoC
+## Video PoC
 
- [https://youtu.be/_yfbTMBRu6o](https://youtu.be/_yfbTMBRu6o)
+[https://youtu.be/_yfbTMBRu6o](https://youtu.be/_yfbTMBRu6o)
